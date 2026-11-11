@@ -70,6 +70,8 @@ Different visualizations were selected to communicate the findings clearly. Thes
 ### Step 5: Dashboard Development
 An interactive Power BI dashboard was developed with slicers that allow users to explore customer information based on churn, phone service, online security, streaming TV, streaming movies, and technical support.
 
+<img width="1558" height="915" alt="Screenshot 2026-11-09 202606" src="https://github.com/user-attachments/assets/a384d318-4473-4248-946c-65d81edc13b7" />
+
 ##  Dashboard Features and Analysis
 
 The dashboard contains three major KPI cards and eight visualizations.
