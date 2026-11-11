@@ -1,7 +1,7 @@
 # CUSTOMER-RETENTION-AND-CHURN-PERFORMANCE-ANALYSIS
 
 
-## Interoduction
+## Introduction
 
 Customer retention is an important factor in the growth and profitability of any subscription-based business. Understanding customer behaviour, subscription patterns, service preferences, and payment methods helps organizations identify potential retention challenges and make informed business decisions.
 
@@ -160,7 +160,7 @@ This chart compares monthly charges across multiple-line subscription categories
 
 Customers with multiple lines generate the highest combined monthly charges among the categories displayed.
 
-## 7. Key Insights and Findings
+##  Key Insights and Findings
 
 The analysis revealed the following important findings:
 
@@ -202,17 +202,3 @@ Through interactive visualizations and KPI monitoring, the dashboard provides an
 The insights generated can help organizations identify opportunities to improve service adoption, strengthen customer relationships, and make more informed business decisions.
 
 ##  Author: Adebayo E. Oluwapelumi
-
-**Tolulope Abimbola**
-
-Aspiring Data Analyst | Statistics Student
-
-**Skills:** Microsoft Excel | SQL | Power BI | Data Analysis | Data Visualization
-
-**GitHub:** [TolulopeAbimbola](https://github.com/TolulopeAbimbola)
-
-**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/tolulope-abimbola-6b4286428/)
-
----
-
-*This project was developed as part of my continuous learning and practical experience in data analytics.*
